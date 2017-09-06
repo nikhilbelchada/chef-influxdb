@@ -14,7 +14,7 @@ supports 'ubuntu'
 
 # For CLI client
 # https://github.com/redguide/nodejs
-depends 'nodejs', '>= 2.4.4'
+depends 'nodejs', '>= 4.0.0'
 
 # For ChefInfluxDB Chef handler
 # https://github.com/jakedavis/chef-handler-influxdb
